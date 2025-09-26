@@ -3,6 +3,7 @@ This project analyses company's sales data (2014-18) to discover revenue and pro
 The aim behind this project was to extract actionable and business relevant insights from raw data compising of more than 620000 rows.
 The analysis helps in discovering seasonal trend, outlier performance, revenue and profit drivers and overall efficacy of allocated budget. 
 These insights are useful to optimize pricing, promotion and statergise market expansion leading to a sustainable growth at a reduced market risk. 
+
 🎯 Objectives
 1. Clean and process raw sales data (620000+ rows)
 2. Identify key revenue and profit drivers across Regions, Sales Channels and products
@@ -13,6 +14,7 @@ These insights are useful to optimize pricing, promotion and statergise market e
 2. Google Colab
 3. Data Cleansing: Handling Null Values, Normalization, Standardise Data
 4. Exploratory Data Anlaysis: Grouping, Aggreation, Feature Engineering, Trend Analysis
+   
 📊 Key Steps in the Project
 1. Data Cleansing
      Standardise the format of Data and bring consistency in data
