@@ -1,4 +1,4 @@
--- DATA CLEANSING IS CARRIED OUT IN 4 GENERAL STEPS
+-- DATA CLEANSING CARRIED OUT IN 4 GENERAL STEPS
 -- 1. Remove Duplicates
 -- 2. Standardize data
 -- 3. Filling Null and Blank values
