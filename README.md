@@ -9,6 +9,7 @@ These insights are useful to optimize pricing, promotion and statergise market e
 2. Identify key revenue and profit drivers across Regions, Sales Channels and products
 3. Detect Seasonal trends and outlier peformance
 4. Weigh in performance against budget restrictions.
+   
 🛠️ Tools & Technologies
 1. Python (Pandas, NumPy, Matplotlib, Seaborn)
 2. Google Colab
