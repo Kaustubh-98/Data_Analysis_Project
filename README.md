@@ -17,17 +17,22 @@ These insights are useful to optimize pricing, promotion and statergise market e
 4. Exploratory Data Anlaysis: Grouping, Aggreation, Feature Engineering, Trend Analysis
    
 📊 Key Steps in the Project
-1. Data Cleansing
-     Standardise the format of Data and bring consistency in data
-     Check for null values and merge dataframes
-     Eliminate unnecessary columns that added redundancy
-2. Exploratory Data Analysis
-     Monthly and Yearly Revenue tends
-     Revenue across various Sales Channel
+1. Data Cleansing:-
+     Standardise the format of Data and bring consistency in data.
+     Check for null values and merge dataframes.
+     Eliminate unnecessary columns that added redundancy.
+2. Exploratory Data Analysis:-
+     Monthly and Yearly Revenue tends.
+     Revenue across various Sales Channel.
      Identify seasonal trends and anomolies.
-3. Findings
-     Identiy top performing Regions and Sales channel
-     Detect outliers impacting proftiablity
-     Discover demand cycles, Average Order Value
+3. Findings:-
+     Identiy top performing Regions and Sales channel.
+     Detect outliers impacting proftiablity.
+     Discover demand cycles, Average Order Value.
+
+🚀 Business Impact
+1. Improve pricing strategy to maximize profit margins.
+2. Mitigate risks by addressing underperforming areas.
+3. Focus resources on high-performing regions & channels.
    
      
